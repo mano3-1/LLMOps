@@ -1,0 +1,12 @@
+datasets
+transformers
+accelerate
+peft
+trl==0.8.6
+bitsandbytes
+scipy
+tensorboard
+boto3
+sagemaker
+einops==0.7.0
+unsloth
